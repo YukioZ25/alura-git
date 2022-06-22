@@ -10,13 +10,13 @@
 
 ---
 
-## 🧾Sobre
+## 🧾 Sobre
 
 O projeto foi realizado durante o curso da **Alura** sobre **Git e GitHub**, com o objetivo de aprender a como utilizar as ferramentas do Git e GitHub.
 
 ---
 
-## 🔌Tecnologias utilizadas
+## 🔌 Tecnologias utilizadas
 O Projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [Git](https://git-scm.com)
