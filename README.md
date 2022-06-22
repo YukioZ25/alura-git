@@ -2,7 +2,7 @@
   <img src="https://ik.imagekit.io/zdc2vswag/alura-removebg-preview_SmyVkKiAt.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655907896862">
 </h1>
 
-# Indice
+# 🎯 Índice
 
 - [Sobre](#🧾sobre)
 - [Tecnologias utilizadas](#🔌tecnologias-utilizadas)
